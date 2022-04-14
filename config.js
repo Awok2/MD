@@ -18,17 +18,17 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','0','6285748894171']
-global.pemilik = ['6285748894171']
-global.premium = ['6285162634171']
+global.owner = ['6288210387012','0','6288210387012']
+global.pemilik = ['6288210387012']
+global.premium = ['6288210387012']
 global.pengguna = 'Nakata'
-global.botnma = 'NahBotz-MD'
+global.botnma = 'AZWANBotz-MD'
 global.footer = 'Nakataa' //FooterText Biar Di Bawah Nya Ada Text 
 global.web = 'https://youtube.com/c/NakataZ' // Ubah Sama Lu Web Nya Bebas 
 global.web2 = 'https://github.com/nakataaard' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'Nakataa'
+global.ownernma = 'ganzz'
 global.packname = 'NahBotz'
 global.author = 'NahBotz'
 global.sessionName = 'nahh'
